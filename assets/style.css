@@ -1,0 +1,35 @@
+
+#element{
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;;
+}
+.gallery{
+    display:flex;
+    justify-content: center;
+}
+
+.gallery_img{
+    display:flex;
+    justify-content: center;
+    height:550px;
+    width:450px;
+}
+
+.navigation{
+    display:flex;
+    justify-content:center;
+    margin:25px;
+    }
+
+    .buttons{
+        display:flex;
+        justify-content:center;
+        margin:25px;
+        height:30px;
+        width:70px
+    }
+   
